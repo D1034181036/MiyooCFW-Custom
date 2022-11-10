@@ -1,6 +1,6 @@
 title=GG
 description=SMS Plus GX Emulator
-icon=/mnt/gmenu2x/skins/Default/icons/gg.png
+icon=/mnt/gmenu2x/skins/Default-Custom/icons/gg.png
 exec=/mnt/emus/smsplusgx/smsplusgx
 clock=702
 selectordir=/mnt/Roms/GG
