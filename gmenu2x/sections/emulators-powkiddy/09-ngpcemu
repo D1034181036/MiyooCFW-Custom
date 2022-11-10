@@ -1,4 +1,4 @@
-title=NGPCemu
+title=NGP
 description=NeoGeo Pocket Emulator
 exec=/mnt/emus/ngpcemu/ngpcemu
 clock=702
