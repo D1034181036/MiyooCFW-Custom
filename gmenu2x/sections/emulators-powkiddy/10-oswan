@@ -1,4 +1,4 @@
-title=WonderSwan
+title=WS
 description=Wonderswan Emulator
 exec=/mnt/emus/oswan/oswan.elf
 clock=702

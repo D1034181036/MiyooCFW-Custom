@@ -1,4 +1,4 @@
-title=SFC / SNES
+title=SFC
 description=SNES9x4d Emulator
 exec=/mnt/emus/snes9x4d/snes9x4d
 clock=702

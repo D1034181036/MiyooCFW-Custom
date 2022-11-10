@@ -1,4 +1,4 @@
-title=Mega Drive
+title=MD
 description=PicoDrive Emulator
 exec=/mnt/emus/picodrive/PicoDrive
 clock=702

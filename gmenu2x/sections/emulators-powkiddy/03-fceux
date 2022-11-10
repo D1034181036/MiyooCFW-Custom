@@ -1,4 +1,4 @@
-title=FC / NES
+title=FC
 description=Fceux Emulator
 exec=/mnt/emus/fceux/fceux
 clock=702
