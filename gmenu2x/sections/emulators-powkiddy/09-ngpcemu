@@ -1,0 +1,8 @@
+title=NGPCemu
+description=NeoGeo Pocket Emulator
+exec=/mnt/emus/ngpcemu/ngpcemu
+clock=702
+selectordir=/mnt/Roms/NGP
+selectorbrowser=false
+selectorfilter=.ngp,.ngc,.npc,.zip,.rar
+selectorscreens=/mnt/Images/NGP

@@ -1,9 +1,0 @@
-title=NGP
-description=GnGeo Emulator
-exec=/mnt/emus/gngeo/gngeo
-clock=702
-selectordir=/mnt/Roms/NGP
-selectorbrowser=false
-selectorfilter=.ngp,.ngc,.npc,.zip,.rar
-selectorscreens=/mnt/Images/NGP
-selectoraliases=/mnt/emus/gngeo/aliases.txt
