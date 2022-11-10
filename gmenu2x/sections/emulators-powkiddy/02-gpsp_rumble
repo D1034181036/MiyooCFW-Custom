@@ -1,0 +1,10 @@
+title=GBA
+description=gpsp emulator
+icon=/mnt/gmenu2x/skins/Default/icons/gpsp.png
+exec=/mnt/emus/gpsp_rumble/gpsp_rumble.elf
+clock=702
+selectordir=/mnt/roms/GBA
+selectorbrowser=false
+selectorfilter=.gba
+selectorscreens=/mnt/Images/GBA
+selectorelement=2

@@ -1,0 +1,8 @@
+title=PC-Engine
+description=Temper Emulator
+exec=/mnt/emus/temper/temper
+clock=702
+selectordir=/mnt/Roms/PCE
+selectorbrowser=false
+selectorfilter=.pce,.bin,.cue,.zip,.rar
+selectorscreens=/mnt/Images/PCE

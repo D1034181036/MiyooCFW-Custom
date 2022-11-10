@@ -1,0 +1,9 @@
+title=PS1
+description=PCSX Rearmed Emulator
+exec=/mnt/emus/pcsx_rearmed/pcsx
+params=-cdfile $1
+clock=702
+selectordir=/mnt/Roms/PS
+selectorbrowser=false
+selectorfilter=.bin,.img,.mdf,.iso,.cue,.pbp,.PBP,.cbn,.zip,.rar
+selectorscreens=/mnt/Images/PS

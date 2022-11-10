@@ -1,0 +1,8 @@
+title=Mega Drive
+description=PicoDrive Emulator
+exec=/mnt/emus/picodrive/PicoDrive
+clock=702
+selectordir=/mnt/Roms/MD
+selectorbrowser=false
+selectorfilter=.md,.smd,.gen,.iso,.bin,.sms,.gg,.sg,.zip,.rar
+selectorscreens=/mnt/Images/MD

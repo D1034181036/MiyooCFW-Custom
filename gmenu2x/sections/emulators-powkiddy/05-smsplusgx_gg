@@ -1,0 +1,9 @@
+title=Game Gear
+description=SMS Plus GX Emulator
+icon=/mnt/gmenu2x/skins/Default/icons/gg.png
+exec=/mnt/emus/smsplusgx/smsplusgx
+clock=702
+selectordir=/mnt/Roms/GG
+selectorbrowser=false
+selectorfilter=.sms,.gg,.bin,.rom,.sg,.zip,.rar
+selectorscreens=/mnt/Images/GG

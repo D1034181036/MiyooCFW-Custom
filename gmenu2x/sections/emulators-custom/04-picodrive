@@ -1,0 +1,8 @@
+title=MD
+description=PicoDrive Emulator
+exec=/mnt/emus/picodrive/PicoDrive
+clock=702
+selectordir=/mnt/roms_custom/MD
+selectorbrowser=false
+selectorfilter=.md,.smd,.gen,.iso,.bin,.sms,.gg,.sg,.zip,.rar
+selectorscreens=/mnt/roms_custom/MD/images

@@ -1,0 +1,10 @@
+title=FBA-街機遊戲
+description=FBA Emulator
+exec=/mnt/emus/fba-a320/fba
+clock=702
+selectordir=/mnt/roms/FBA
+selectorbrowser=false
+selectorelement=1
+selectorfilter=.zip
+selectorscreens=/mnt/Images/FBA
+selectoraliases=/mnt/emus/fba-a320/aliases.txt

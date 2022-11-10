@@ -1,0 +1,3 @@
+title=終端機
+description=ST Terminal Emulator
+exec=/mnt/apps/st/st

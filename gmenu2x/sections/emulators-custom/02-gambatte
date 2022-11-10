@@ -1,0 +1,9 @@
+title=GB
+description=Gambatte Emulator (New)
+exec=/mnt/emus/gambatte/gambatte
+clock=702
+selectordir=/mnt/roms_custom/GB
+selectorbrowser=false
+selectorfilter=.gb,.gbc,.zip,.rar
+selectorscreens=/mnt/roms_custom/GB/images
+selectorelement=1

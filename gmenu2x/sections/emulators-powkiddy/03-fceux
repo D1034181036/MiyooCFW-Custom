@@ -1,0 +1,8 @@
+title=FC / NES
+description=Fceux Emulator
+exec=/mnt/emus/fceux/fceux
+clock=702
+selectordir=/mnt/Roms/FC
+selectorbrowser=false
+selectorfilter=.nes,.fc,.fds,.zip,.rar
+selectorscreens=/mnt/Images/FC

@@ -1,0 +1,8 @@
+title=WonderSwan
+description=Wonderswan Emulator
+exec=/mnt/emus/oswan/oswan.elf
+clock=702
+selectordir=/mnt/Roms/WS
+selectorbrowser=false
+selectorfilter=.ws,.wsc,.bin,.zip,.rar
+selectorscreens=/mnt/Images/WS

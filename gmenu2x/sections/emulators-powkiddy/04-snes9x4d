@@ -1,0 +1,8 @@
+title=SFC / SNES
+description=SNES9x4d Emulator
+exec=/mnt/emus/snes9x4d/snes9x4d
+clock=702
+selectordir=/mnt/Roms/SFC
+selectorbrowser=false
+selectorfilter=.smc,.sfc,.swc,.zip,.rar
+selectorscreens=/mnt/Images/SFC

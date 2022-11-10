@@ -1,0 +1,8 @@
+title=Master System
+description=SMS Plus GX Emulator
+exec=/mnt/emus/smsplusgx/smsplusgx
+clock=702
+selectordir=/mnt/Roms/MS
+selectorbrowser=false
+selectorfilter=.sms,.gg,.bin,.rom,.sg,.zip,.rar
+selectorscreens=/mnt/Images/MS
