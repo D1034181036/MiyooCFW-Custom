@@ -1,6 +1,6 @@
 title=GBA
 description=gpsp emulator
-icon=/mnt/gmenu2x/skins/Default/icons/gpsp.png
+icon=/mnt/gmenu2x/skins/Default-Custom/icons/gpsp.png
 exec=/mnt/emus/gpsp_rumble/gpsp_rumble.elf
 clock=702
 selectordir=/mnt/roms_custom/GBA
